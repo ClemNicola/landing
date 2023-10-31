@@ -1,0 +1,16 @@
+.btn-green{
+  padding: 15px 50px;
+  background-color: rgb(153, 235, 153);
+  border-radius: 40px;
+  transition: 0.3s ease-in-out;
+  margin: 20px 0px;
+  width: fit-content;
+}
+.btn-green a{
+  color: white;
+  text-decoration: none;
+}
+
+.btn-green:hover{
+  background-color: rgb(59, 181, 59);
+}

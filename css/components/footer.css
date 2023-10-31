@@ -1,0 +1,26 @@
+footer{
+  background-color: rgba(23, 20, 20, 0.816);
+  margin: 0;
+  height: 170px;
+}
+
+ul{
+  color: rgb(131, 225, 131);
+  text-align: center;
+  list-style: none;
+  font-size: 30px;
+
+}
+
+li{
+  display: inline-block;
+  margin-top: 50px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+footer p{
+  text-align: center;
+  color: rgb(188, 186, 186);
+  font-size: 16px;
+}
